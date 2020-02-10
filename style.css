@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header-section{
+    background-color: aqua;
+    color: black;
+    height: 100px;
+    width: 100%;
+}
+.header-section .header-h1{
+    font-family: fantasy;
+   margin: auto;
+}
+.body-section{
+    height: 500px;
+    width: 100%;
+    background-color: green;
+}
+.body-section .left-side{
+    height: 100%;
+    width: 30%;
+    background: red;
+    float: left;
+    display: inline;
+}
+.body-section .middle-side{
+    height: 100%;
+    width: 40%;
+    background-color: blue;
+    float: left;
+    display: inline;
+}
+.body-section .right-side{
+    height: 100%;
+    width: 30%;
+    background-color: gray;
+    float: left;
+    display: inline;
+}
+.footer-section{
+    background-color: #655644;
+    color: pink;
+    height: 120px;
+    width: 100%;
+}
